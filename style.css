@@ -1,0 +1,23 @@
+/* Element selections */
+table,
+th,
+td {
+  border: 1px solid black;
+  text-align: center;
+}
+table {
+  width: 100%;
+}
+
+/* Class selections */
+
+.amounts {
+  font-style: italic;
+  font-weight: bold;
+}
+
+/* ID selections */
+
+#firstDirection {
+  color: cornflowerblue;
+}

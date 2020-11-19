@@ -16,6 +16,10 @@ table {
   font-weight: bold;
 }
 
+.recipe-header {
+  text-align: center;
+}
+
 /* ID selections */
 
 #firstDirection {
